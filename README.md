@@ -1,1 +1,2 @@
-# UMC-10th-Yeon
+# DSWU-UMC-10th
+DSWU-UMC-10th 리포지토리
